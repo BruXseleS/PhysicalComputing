@@ -1,4 +1,4 @@
-#Edited 2
+#Edited 
 import RPi.GPIO as GPIO
 GPIO.setmode(GPIO.BOARD) 
 class LED:
